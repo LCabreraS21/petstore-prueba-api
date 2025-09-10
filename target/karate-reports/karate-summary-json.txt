@@ -1,0 +1,1 @@
+{"efficiency":0.0,"totalTime":0.0,"threads":5,"resultDate":"2025-09-10 05:19:53 a. m.","env":"graaljs","version":"1.4.1","scenariosfailed":0,"featureSummary":[],"featuresPassed":0,"featuresFailed":0,"featuresSkipped":0,"scenariosPassed":0,"elapsedTime":810.0}

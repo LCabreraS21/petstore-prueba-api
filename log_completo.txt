@@ -1,0 +1,30 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< com.ejemplo:petstore-tests >---------------------
+[INFO] Building petstore-tests 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ petstore-tests ---
+[INFO] Deleting C:\Postulaciones-LC\Sofka\desarrollo\ProjEclipse\petstore\petstore-tests\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ petstore-tests ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Postulaciones-LC\Sofka\desarrollo\ProjEclipse\petstore\petstore-tests\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ petstore-tests ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ petstore-tests ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 2 resources from src\test\resources to target\test-classes
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ petstore-tests ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 3 source files with javac [debug target 1.8] to target\test-classes
+[WARNING] bootstrap class path not set in conjunction with -source 8
+[INFO] 
+[INFO] --- surefire:3.1.2:test (default-test) @ petstore-tests ---
+¨Desea terminar el trabajo por lotes (S/N)? ¨Desea terminar el trabajo por lotes (S/N)? 
+^C¨Desea terminar el trabajo por lotes (S/N)? 
+^C
